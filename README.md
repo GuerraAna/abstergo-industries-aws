@@ -36,4 +36,4 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 Assinatura do Responsável pelo Projeto:
 
-Ana Clara Guerra
+Ana Clara Guerra dos Santos
